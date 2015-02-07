@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="StreetViewer.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="LastLocationX" Type="System.String" Scope="User">
+      <Value Profile="(Default)">36.1003</Value>
+    </Setting>
+    <Setting Name="LastLocationY" Type="System.String" Scope="User">
+      <Value Profile="(Default)">112.1002</Value>
+    </Setting>
+    <Setting Name="LastLocation" Type="System.String" Scope="User">
+      <Value Profile="(Default)">42.345573,-71.098326</Value>
+    </Setting>
+    <Setting Name="LastHeading" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
